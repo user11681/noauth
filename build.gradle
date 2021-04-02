@@ -1,0 +1,10 @@
+plugins {
+    id("wheel").version("0-SNAPSHOT")
+}
+
+group("user11681")
+version("0.0.0")
+
+wheel {
+    nospam = false
+}

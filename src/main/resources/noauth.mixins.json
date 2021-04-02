@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "user11681.noauth",
+    "compatibilityLevel": "JAVA_8",
+    "client": [
+        "MinecraftClientMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

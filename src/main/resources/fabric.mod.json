@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "noauth",
+    "version": "${version}",
+
+    "name": "noauth",
+    "description": "console spam begone",
+    "authors": [
+        "user11681"
+    ],
+    "contact": {
+        "repo": "https://github.com/user11681/noauth"
+    },
+
+    "license": "unlicense",
+
+    "environment": "client",
+
+    "mixins": [
+        "noauth.mixins.json"
+    ]
+}
